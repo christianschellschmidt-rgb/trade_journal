@@ -1,0 +1,4 @@
+- Statistiken aus Datenpipeline (ON, PreMarket, Skew, Gap).
+  - Hinweis: tagsungebe auch unpollstendig, finalisie.  
+- Trade-Ergebnisse 
+- CRV - berechnet aus Entry, Stop, TP.  
