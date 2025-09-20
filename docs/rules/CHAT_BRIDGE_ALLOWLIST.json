@@ -1,0 +1,6 @@
+{
+   "allowed": ["data/", "docs/"],
+   "denied": ["data-raw/"],
+   "branch": "chat-sync",
+   "commit_convention": "chore(chat): {path}"
+}
