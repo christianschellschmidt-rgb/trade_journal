@@ -1,0 +1,11 @@
+    - basiert auf Checks, Bias-uebereinstimmung , Guardrail-Konformitaet.
+  - Manuelle Bewertung (durch Trader):
+    - subjektive Erkannung oder Korrektur.
+    - erlaubte Bewertung.  
+    - fehlschlage Manzulriks.  
+    - voll automatisierte Bewertung an Hand von Trades.
+    - automatische Bewertung an Tradeslog.  
+- Manuelle Bewertung (durch Trade):
+    - subjektive Erkannung oder Korrektur.
+    - erlaubte Bewertung.
+    - fehlschlage Manzulriks.  
